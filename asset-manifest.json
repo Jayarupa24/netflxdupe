@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/netflxdupe/static/css/main.aa5f364c.css",
+    "main.js": "/netflxdupe/static/js/main.c6a54220.js",
+    "static/js/453.ccfee9c3.chunk.js": "/netflxdupe/static/js/453.ccfee9c3.chunk.js",
+    "static/media/incep.jpg": "/netflxdupe/static/media/incep.9762b320146f9ef2e60e.jpg",
+    "static/media/ae.jpg": "/netflxdupe/static/media/ae.9b3c7ad8818d75891121.jpg",
+    "static/media/mat.jpg": "/netflxdupe/static/media/mat.64746ea2169b92d57e10.jpg",
+    "static/media/dk.jpg": "/netflxdupe/static/media/dk.f4588e0186ca65fe1d12.jpg",
+    "index.html": "/netflxdupe/index.html",
+    "main.aa5f364c.css.map": "/netflxdupe/static/css/main.aa5f364c.css.map",
+    "main.c6a54220.js.map": "/netflxdupe/static/js/main.c6a54220.js.map",
+    "453.ccfee9c3.chunk.js.map": "/netflxdupe/static/js/453.ccfee9c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5f364c.css",
+    "static/js/main.c6a54220.js"
+  ]
+}
